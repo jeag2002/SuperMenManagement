@@ -1,0 +1,5 @@
+com\test\JerseySSLClient$MyX509KeyManager.class
+com\test\JerseySSLClient.class
+com\test\SuperHeroClient.class
+com\test\JerseySSLClient$MyX509TrustManager.class
+com\test\JerseySSLClient$1.class
